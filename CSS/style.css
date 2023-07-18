@@ -455,6 +455,8 @@ border: 1px solid #6e7279;
 width: 100%;
 
 padding-left: 5px;
+
+caret-color: white;
 }
 
 .forminput1 input:focus{
@@ -489,6 +491,8 @@ border: 1px solid #6e7279;
 width: 100%;
 
 padding-left: 5px;
+
+caret-color: white;
 }
 
 .forminput2 input:focus{
@@ -522,6 +526,8 @@ border: 1px solid #6e7279;
 width: 100%;
 
 padding-left: 5px;
+
+caret-color: white;
 }
 
 .forminput3 input:focus{
